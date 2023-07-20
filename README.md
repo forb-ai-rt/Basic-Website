@@ -1,4 +1,3 @@
-# Git-and-GitHub
 # Welcome to forb-AI-rt GitHub Learning Repository
 
 ## Introduction
